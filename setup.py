@@ -35,7 +35,7 @@ setuptools.setup(
     description = "txmsgpackrpc is a Twisted library to support msgpack-rpc",
     long_description=long_description,
     install_requires = [
-        "Twisted>=16.0",
+        "Twisted<=15.4.0",
         "msgpack-python>=0.4",
     ],
     classifiers=[
@@ -45,6 +45,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",

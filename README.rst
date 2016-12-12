@@ -1,8 +1,10 @@
 txmsgpackrpc
 ============
 
-.. image:: https://travis-ci.org/jakm/txmsgpackrpc.svg?branch=master
-   :target: https://travis-ci.org/jakm/txmsgpackrpc
+** temporary python compat 2.6 fork **
+
+.. image:: https://travis-ci.org/tobixx/txmsgpackrpc.svg?branch=master
+   :target: https://travis-ci.org/tobixx/txmsgpackrpc
 
 For the latest source code, see http://github.com/jakm/txmsgpackrpc
 
